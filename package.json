@@ -1,5 +1,5 @@
 {
-  "name": "netflix-gpt-api",
+  "name": "ai-netflix-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,3 @@
-# Netflix-GPT-API
+# AI-Netflix-API
 
 will be filled soon
