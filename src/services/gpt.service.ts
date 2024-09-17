@@ -5,7 +5,6 @@ import { Movie } from "../utils/types";
 const getGroqChatCompletion = async (gptQuery: string) => {
   const groq = new Groq({
     apiKey: process.env.GROQ_API_KEY,
-    dangerouslyAllowBrowser: true,
   });
 
   return groq.chat.completions.create({
