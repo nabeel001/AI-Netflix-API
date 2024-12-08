@@ -1,6 +1,6 @@
 # AI-Netflix-API
 
-- Backend service for the [AI-Netflix](https://netflix-gpt6.web.app) Application.
+- Backend service for the [AI-Netflix](https://ai-netflix-u2h1.onrender.com) Application.
 - Check out FE codebase here: [github.com/nabeel001/AI-Netflix](https://github.com/nabeel001/AI-Netflix)
 
 ## Tools and Frameworks Used:
